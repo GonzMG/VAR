@@ -1,0 +1,8 @@
+prefix=/home/gonzalo/Universidad/VAR/catkin_ws/install
+
+Name: simage
+Description: Description of simage
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/gonzalo/Universidad/VAR/catkin_ws/install/lib 
+Requires: 
